@@ -1,4 +1,4 @@
-# CODESOFT-Internship-Data-Science
+# CODSOFT-Internship-Data-Science
 # Introduction
 I'm excited to recount my experience as an intern at CodSoft, where I had the privilege of working on three dynamic projects in the realm of data science. This internship has been a profound learning journey for me, offering a chance to dive deep into the field and produce work I'm truly proud of.
 # Project 1: Movie Rating Prediction
